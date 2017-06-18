@@ -10,7 +10,7 @@
 #8# Opslaan
 #9# Afsluiten
 #10# Start opnieuw
-#11# EARLY ACCESS
+#11# VROEGTIJDIGE TOEGANG
 #12# Het spel is nog niet af, maar er wordt hard aan gewerkt. Bekijk het ontwikkelblog op de Steam Community Hub voor meer informatie.
 #13# Nieuws
 #14# Discussies
